@@ -3,7 +3,8 @@
 ![Netflix Logo](https://github.com/GunjanSaini07/netflix_sql_project/blob/main/logo.png)
 
 This project explores the Netflix dataset using PostgreSQL.  
-It includes SQL queries to analyze movies, TV shows, actors, directors, and genres.  
+It includes SQL queries to analyze movies, TV shows, actors, directors, and genres. 
+
 ---
 🎯 Objective
 
@@ -18,5 +19,6 @@ Analyze release trends, ratings, and genres.
 Detect specific categories like documentaries, multi-season shows, and violence-related content.
 
 Strengthen SQL skills such as filtering, aggregation, window functions, string functions, and subqueries.
+
 --- 
 
