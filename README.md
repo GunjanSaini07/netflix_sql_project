@@ -58,5 +58,4 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 
 ## 👩‍💻 Author  
 - **Gunjan Saini**  
-  [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)  
-
+  [LinkedIn]((https://www.linkedin.com/in/gunjan-saini-7a255b28b)) | [GitHub](https://github.com/GunjanSaini07)
