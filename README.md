@@ -5,9 +5,9 @@
 This project explores the Netflix dataset using PostgreSQL.  
 It includes SQL queries to analyze movies, TV shows, actors, directors, and genres. 
 
----
-🎯 Objective
 
+🎯 Objective
+---
 The objective of this project is to analyze the Netflix dataset using SQL and extract meaningful insights about movies and TV shows. By writing optimized SQL queries, the project aims to:
 
 Understand content distribution across type (Movies vs. TV Shows).
