@@ -32,7 +32,7 @@ The data for this project is sourced from the Kaggle dataset:
 - PostgreSQL
 - SQL
 
----
+
 
 ## 📊 Queries Included
 1. Count the Number of Movies vs TV Shows
@@ -49,5 +49,14 @@ The data for this project is sourced from the Kaggle dataset:
 12. Top 10 Actors with Most Movies Produced in India
 13. Categorize Content Based on 'Kill' and 'Violence'
 
----
+## Findings and Conclusion
+-Content Distribution: The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
+-Common Ratings: Insights into the most common ratings provide an understanding of the content's target audience.
+-Geographical Insights: The top countries and the average content releases by India highlight regional content distribution.
+-Content Categorization: Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
+This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+
+## 👩‍💻 Author  
+- **Gunjan Saini**  
+  [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)  
 
